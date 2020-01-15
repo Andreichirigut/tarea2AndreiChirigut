@@ -10,5 +10,10 @@ package tarea2AndreiChirigut;
  * @author Chiri
  */
 public class Tarea2AndreiChirigut {
+    public static void main(String[] args) {
+        
+        Jugador jugador = new Jugador("Pepe", 3, 10);
+        
     
+    }
 }
