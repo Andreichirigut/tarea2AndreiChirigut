@@ -53,6 +53,11 @@ public class Jugador {
         this.edad = edad;
     }
 
+    @Override
+    public String toString() {
+        return "Jugador{" + "nombre=" + nombre + ", votos=" + votos + ", id=" + id + ", edad=" + edad + '}';
+    }
+
     
     
     
